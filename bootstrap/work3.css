@@ -1,0 +1,54 @@
+.f1{
+   
+    padding: 30px;
+    text-align: center;
+    background-color: red;
+}
+.f2{
+   
+    padding: 30px;
+    text-align: center;
+    background-color: green;
+}
+.f3{
+  
+    padding: 20px;
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.f4{
+    padding: 50px;
+    text-align: center;
+    background-color: blue;
+ }
+ .f5{
+    padding: 50px;
+    text-align: center;
+    background-color:gray;
+ } 
+ .f6{
+    padding: 50px;
+    text-align: center;
+    background-color:palevioletred;
+ 
+ }
+ .f7{ 
+     padding: 250px;
+    text-align: center;
+    background-color:aquamarine;
+
+ }
+ .f8{
+    padding: 250px;
+    text-align: center;
+    background-color: darkgoldenrod;
+
+ }
+ .f9{
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(15, 82, 216)
+ }
+ 

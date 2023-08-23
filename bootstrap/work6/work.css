@@ -1,0 +1,34 @@
+.one{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Handjet', cursive;
+}
+.a{
+    background-color: rgb(1, 7, 24);
+    color: aliceblue;
+    font-family: 'Lora', serif;
+    font-size: xx-large;
+}
+.b{
+    background-color: rgb(1, 7, 24);
+    
+}
+.c{
+    padding:10px;
+}
+.d{
+    padding: 10px;
+    background-color: darkorange;
+    margin-left: 10px;
+}
+.one{
+    font-family: 'Lora', serif;
+    font-size:50px;
+    text-align:center;
+}
+.two{
+    font-family: 'Lora', serif; 
+    text-align:center;
+    
+    font-size:x-large;
+}

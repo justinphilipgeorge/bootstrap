@@ -1,0 +1,21 @@
+a.one{
+    color:aliceblue;
+    background-color: rgba(71, 33, 14, 0.437);
+font-weight: 300;
+}
+.two{
+    font-family: 'Roboto', sans-serif;
+    font-size:x-large;
+   
+}
+.a{
+    font-family: 'Roboto', sans-serif;
+}
+.three{
+    
+   font-family:'EB Garamond', serif;
+   font-size:15px;
+   font-weight: 400;
+   color: black;
+ 
+}

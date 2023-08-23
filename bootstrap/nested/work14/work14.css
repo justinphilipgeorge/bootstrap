@@ -1,0 +1,81 @@
+.one{
+    font-size: 12px;
+    color: darkgrey;
+}
+.two{
+   font-family: 'EB Garamond', serif;
+   font-size: 40px;
+   font-weight: 400;
+   line-height: 40px;
+}
+.three{
+  font-family: 'EB Garamond', serif;
+color: rgb(84, 82, 82);
+}
+.four{
+    font-family:'Inter', sans-serif;
+}
+a.five{
+  font-family: 'EB Garamond', serif;
+  font-size: 50px;
+  color: black;
+  text-decoration: none;
+  border-bottom: 5px;
+  border-color: black;
+}
+.b{
+  font-size: small;
+}
+.c{
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.d{
+  font-family: 'EB Garamond', serif;
+  font-size: smaller;
+}
+.f1{
+  font-family: 'EB Garamond', serif;
+  color: black;
+
+}
+.f2{
+  font-family: 'EB Garamond', serif;
+  color:grey;
+  font-size:small; 
+}
+.six{
+  color: rgb(74, 72, 72);
+  font-size:smaller;
+  
+}
+.ab{
+  border-bottom: solid black 2px;
+  
+}
+.hh{
+  color: aliceblue;
+}
+.f8{
+  color: antiquewhite;
+}
+.f10{
+  background-color: black;
+}
+.f11{
+  width: 30px;
+}
+.f12{
+  color: antiquewhite;
+  margin-left: 115px;
+
+}
+.f14{
+margin-top: 700px;
+margin-left: 800px;
+}
+.f15{
+  margin-left: 270px;
+}
+

@@ -1,0 +1,46 @@
+.one{
+    font-family: "Inter", sans-serif;
+    font-size:50px;
+    font-weight: 700;
+}
+.two{
+    font-family: "Inter", sans-serif;
+    font-size:medium;
+    color: darkgrey;
+}
+.three{
+    padding: 10px;
+    font-family: "Inter", sans-serif;
+    background-color: rgb(218, 81, 32);
+    color: aliceblue;
+    font-size:larger;
+    border: none;
+}
+.four{
+    background-color: rgb(6, 6, 34);
+}
+.a{
+    color: rgb(78, 83, 112);
+}
+.b{
+    color: rgb(219, 99, 13);
+}
+.c{
+    color: aliceblue;
+}
+.d{
+    font-weight:bold;
+}
+a.five:hover{
+    color:rgb(227, 81, 7);
+    
+}
+a.five{
+    color: black;
+}
+button.three:hover{
+    background-color: rgb(2, 2, 33);
+}
+h3.c:hover{
+    color: rgb(236, 132, 34);
+}

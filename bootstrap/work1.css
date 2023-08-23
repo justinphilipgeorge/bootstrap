@@ -1,0 +1,21 @@
+.container{
+    border: 2px solid black;
+    padding: 100px;
+}
+
+.col-lg-9{
+    border: 2px solid black ;
+    padding-top: 100px;
+    background-color: rgb(57, 143, 213);
+}
+.h1{
+    border: 2px solid black ;
+    padding-top: 100px;
+    background-color:rgb(245, 146, 96);
+    
+
+    }
+    .h2{
+        width: 1200px;
+        background-color:rgb(228, 228, 117);
+    }
